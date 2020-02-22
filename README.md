@@ -1,9 +1,9 @@
 # Drone Dashboard
 
-A sample simulation of drone dashboard using MapBox and D3.js: http://dronacharya.slapbot.ml/
+A sample simulation of drone dashboard using MapBox and D3.js: http://dronacharya.slapbot.me/
 
-- Drone Monitoring: http://dronacharya.slapbot.ml/dashboard/monitoring
-- Drone Collision Control (Press "space" to avoid collision): http://dronacharya.slapbot.ml/dashboard/collision
+- Drone Monitoring: http://dronacharya.slapbot.me/dashboard/monitoring
+- Drone Collision Control (Press "space" to avoid collision): http://dronacharya.slapbot.me/dashboard/collision
 
 ## Launch
 
